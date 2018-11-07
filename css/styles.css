@@ -370,6 +370,17 @@ a.button-nested:hover::after {border-color: #00a6cc transparent transparent tran
 
 }
 
+.project-img {
+  width: 350px;
+  height: 230px;
+}
+.navImg {
+  width: 350px;
+  height: 20px;
+}
+
+
+
 /* =====================================
             GITHUB CORNER LINK
 ======================================= */
